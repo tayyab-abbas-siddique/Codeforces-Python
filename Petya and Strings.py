@@ -12,4 +12,4 @@ if __name__ == "__main__":
     else:
         print("0")
 
-# https://www.codeforces/problemset/problem/112A
+# https://www.codeforces/problemset/problem/112A/
