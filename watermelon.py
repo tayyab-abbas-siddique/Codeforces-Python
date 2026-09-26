@@ -1,6 +1,6 @@
 import sys 
 
-water_melon_weight = int(input())
+water_melon_weight = int(input("Enter your number:"))
 
 if __name__ == "__main__":
     if water_melon_weight % 2 == 0 and water_melon_weight > 2:
