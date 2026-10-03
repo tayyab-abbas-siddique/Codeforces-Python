@@ -10,5 +10,4 @@ https://www.codeforcfces.com
 Link of problems
 https://www.codeforces.com/problemset?order=BY_RATING_ASC
 
-Link of my profile
-https://www.codeforces.com/profile/tayyababbassiddique12/
+
