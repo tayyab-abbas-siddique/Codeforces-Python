@@ -7,3 +7,5 @@ if __name__ == "__main__":
         print("CHAT WITH HER!")
     else:
         print("IGNORE HIM!")
+
+# https://www.codeforces.com/problemset/problem/236/A
